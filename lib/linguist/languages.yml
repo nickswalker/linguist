@@ -3915,6 +3915,13 @@ Limbo:
   tm_scope: none
   ace_mode: text
   language_id: 201
+Linear Program:
+  type: programming
+  extensions:
+  - ".lp"
+  tm_scope: none
+  ace_mode: text
+  language_id: 377204539
 Linker Script:
   type: data
   extensions:
